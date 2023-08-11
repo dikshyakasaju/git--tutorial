@@ -1,3 +1,1 @@
-print("This is a feature 3")
-print("This is Conflict 2")
-
+print("This is the master feature")
